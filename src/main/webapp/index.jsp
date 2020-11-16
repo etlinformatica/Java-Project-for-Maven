@@ -23,7 +23,7 @@
 						<div>
 						<nav>
 								<ul class="actions">
-										<li><a  class="button special">Sysfoo</a></li>
+										<li><a  class="button special">SriBlog</a></li>
 									</ul>
 
 						</nav>
@@ -42,7 +42,7 @@
 						</div>
 						<nav>
 							<ul>
-								<li><a href="#about">School of Devops</a></li>
+								<li><a href="#about">My World of Wonders</a></li>
 							</ul>
 						</nav>
 					</header>
@@ -54,8 +54,11 @@
 						<!-- About -->
 							<article id="about">
 								<h2 class="major">About</h2>
-								<span class="image main"><img src="images/sodc_banner.jpg" alt="" /></span>
-								<p>School of Devops is a leading provider of devops trainings and offers variety of courses which focus on Infrastrucrture as a Code, Container and Docker, Continuous Delivery, Cloud. To learn more visit http://www.schoolofdevops.com.</p>
+								<span class="image main"><img src="images/Icon.png" alt="" /></span>
+								<p>Hi, my name is Sri! Welcome to my little world! 
+
+ I created this blog so that I could share my exciting moments, creations, and interests with the world around me. It’s like an online journal that others can view, like, and tell their thoughts about.
+									To know more visit <a href "https://www.nija12.wordpress.com"</a></p>
 							</article>
 					</div>
 
