@@ -58,7 +58,7 @@
 								<p>Hi, my name is Sri! Welcome to my little world! 
 
  I created this blog so that I could share my exciting moments, creations, and interests with the world around me. It’s like an online journal that others can view, like, and tell their thoughts about.
-									To know more visit <a href="https://www.nija12.wordpress.com"></a></p>
+									To know more click <a href="https://www.nija12.wordpress.com">here</a></p>
 							</article>
 					</div>
 
